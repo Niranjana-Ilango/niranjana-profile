@@ -6,7 +6,7 @@ Backend Developer
 
 * 🌍  I'm based in karaikudi,Tamil nadu,India
 * ✉️  You can contact me at [niranjavalar@gmail.com](mailto:niranjavalar@gmail.com)
-* 🧠  I'm learning Currently learning cloud computing with Spotknack
+* 🧠  I'm Currently learning  cloud computing with Spotknack
 * ⚡  Adaptive/Active learner
 
 ### Skills
