@@ -9,7 +9,10 @@ Niranjana has a strong interest in backend development. Her objective is to cont
 * 🌍  I'm based in karaikudi,Tamil nadu,India
 * ✉️  You can contact me at [niranjavalar@gmail.com](mailto:niranjavalar@gmail.com)
 * 🧠  I'm learning Currently learning cloud computing with Spotknack
-* 🤝  I'm open to collaborating on 🔥projects: 1.Deploying our college website S3,cloud front , east to /amplify/lightsail,route 53 adding features to available resources 2.Deploying e-commerce website Managed project timelines, reducing delivery times by 30%. Spearheaded the adoption of cutting-edge engineering software, improving project accuracy by 15%. Collaborated with cross-functional teams, enhancing project success rates by 10%. 3.SREC website CI/CD Coordinated project tasks, ensuring adherence to engineering standards and regulations. Conducted comprehensive project analyses, identifying and rectifying discrepancies in engineering designs
+* 🤝  I'm open to collaborating on 🔥projects:
+* 1.Deploying our college website S3,cloud front , east to /amplify/lightsail,route 53 adding features to available resources
+* 2.Deploying e-commerce website Managed project timelines, reducing delivery times by 30%. Spearheaded the adoption of cutting-edge engineering software, improving project accuracy by 15%. Collaborated with cross-functional teams, enhancing project success rates by 10%.
+*  3.SREC website CI/CD Coordinated project tasks, ensuring adherence to engineering standards and regulations. Conducted comprehensive project analyses, identifying and rectifying discrepancies in engineering designs
 * ⚡  Adaptive/Active learner
 
 <a href="https://www.github.com/Niranjana-Ilango" target="_blank" rel="noreferrer"><img
